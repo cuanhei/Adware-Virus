@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\virus\virus\bin\Debug\net6.0-windows\virus.exe
+C:\Users\User\Desktop\virus\virus\bin\Debug\net6.0-windows\virus.deps.json
+C:\Users\User\Desktop\virus\virus\bin\Debug\net6.0-windows\virus.runtimeconfig.json
+C:\Users\User\Desktop\virus\virus\bin\Debug\net6.0-windows\virus.dll
+C:\Users\User\Desktop\virus\virus\bin\Debug\net6.0-windows\virus.pdb
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.Form1.resources
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.csproj.GenerateResource.cache
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.AssemblyInfo.cs
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.dll
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\refint\virus.dll
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.pdb
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\virus.genruntimeconfig.cache
+C:\Users\User\Desktop\virus\virus\obj\Debug\net6.0-windows\ref\virus.dll
