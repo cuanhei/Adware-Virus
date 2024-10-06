@@ -45,7 +45,7 @@ namespace virus
             if (e.Button == MouseButtons.Left)
             {
                 // Show a message box
-                MessageBox.Show("Follow IG @limcuanhei");
+                MessageBox.Show("Follow IG @Your Instagram");
             }
         }
 
